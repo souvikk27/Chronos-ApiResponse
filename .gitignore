@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Chronos.ApiResponse/bin/Debug
+/Chronos.ApiResponse/obj
+/Chronos.ApiResponse/obj/Debug/net8.0/ref/Chronos.ApiResponse.dll
